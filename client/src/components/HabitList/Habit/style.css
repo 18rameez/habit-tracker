@@ -1,0 +1,20 @@
+
+
+.habit-container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    padding: 10px 0px;
+    border-bottom: 1px solid;
+    
+}
+
+.habit-container div{
+ 
+    text-align: left;
+    flex: 1;
+
+}

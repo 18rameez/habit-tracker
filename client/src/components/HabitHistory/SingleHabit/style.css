@@ -1,0 +1,33 @@
+
+.single-habit-container{
+
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 10px;
+    border-bottom: 1px solid;
+    gap: 10px;
+}
+
+.habit-history-details{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    justify-content: left;
+    align-items: flex-start;
+}
+
+.habit-history-dates{
+   
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+}
+
+.habit-history-options{
+
+    display: flex;
+    justify-content: end;
+    gap: 5px;
+}
+

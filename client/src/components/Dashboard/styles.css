@@ -1,0 +1,9 @@
+
+
+.dashboard-container{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: flex-start;
+    align-items: flex-start;
+}

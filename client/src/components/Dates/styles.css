@@ -1,0 +1,11 @@
+
+
+.dates-conatainer{
+    display: flex;
+    gap: 5px;
+    overflow: scroll;
+}
+
+.dates-conatainer::-webkit-scrollbar {
+    display: none;
+  }
